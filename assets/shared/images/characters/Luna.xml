@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Luna.png">
+<SubTexture name="luna hoe Idle0000" x="2290" y="749" width="555" height="739" frameX="-297" frameY="-250" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Idle0001" x="0" y="1766" width="555" height="665" frameX="-297" frameY="-324" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Idle0002" x="2875" y="635" width="555" height="612" frameX="-297" frameY="-377" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Idle0003" x="2875" y="1247" width="555" height="516" frameX="-297" frameY="-473" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Idle0004" x="628" y="2902" width="555" height="392" frameX="-297" frameY="-597" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Idle0005" x="627" y="2431" width="556" height="443" frameX="-297" frameY="-547" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Idle0006" x="2875" y="1763" width="556" height="474" frameX="-297" frameY="-516" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Up0000" x="1718" y="0" width="572" height="801" frameX="-291" frameY="-189" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Up0001" x="1146" y="0" width="572" height="869" frameX="-291" frameY="-121" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Up0002" x="573" y="0" width="573" height="964" frameX="-291" frameY="-27" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Up0003" x="0" y="0" width="573" height="991" frameX="-291" frameY="0" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Down0000" x="0" y="2431" width="627" height="471" frameX="-289" frameY="-525" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Down0001" x="1183" y="2431" width="627" height="436" frameX="-289" frameY="-560" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Down0002" x="1810" y="2431" width="627" height="428" frameX="-289" frameY="-568" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Down0003" x="2437" y="2431" width="628" height="416" frameX="-288" frameY="-581" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Down0004" x="0" y="2902" width="628" height="404" frameX="-288" frameY="-593" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Left0000" x="2290" y="0" width="585" height="749" frameX="-271" frameY="-242" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Left0001" x="719" y="991" width="624" height="750" frameX="-232" frameY="-242" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Left0002" x="1343" y="991" width="652" height="750" frameX="-204" frameY="-242" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Left0003" x="0" y="991" width="719" height="775" frameX="-137" frameY="-217" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Right0000" x="2875" y="0" width="640" height="635" frameX="-284" frameY="-359" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Right0001" x="555" y="1766" width="681" height="636" frameX="-284" frameY="-358" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Right0002" x="1236" y="1766" width="692" height="636" frameX="-284" frameY="-358" frameWidth="1217" frameHeight="1166" />
+<SubTexture name="luna hoe Right0003" x="1928" y="1766" width="740" height="636" frameX="-284" frameY="-358" frameWidth="1217" frameHeight="1166" />
+</TextureAtlas>
