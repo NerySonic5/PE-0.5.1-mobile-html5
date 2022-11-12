@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "luna hoe Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "luna hoe Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "luna hoe Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "luna hoe Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "luna hoe Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Luna",
+	"position": [
+		-350,
+		-100
+	],
+	"healthicon": "luna-hoe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		170
+	],
+	"camera_position": [
+		-60,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
