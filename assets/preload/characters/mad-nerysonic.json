@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "never mess with nerysonic Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "never mess with nerysonic Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "never mess with nerysonic Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "never mess with nerysonic Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "never mess with nerysonic idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madnery",
+	"position": [
+		-390,
+		90
+	],
+	"healthicon": "mad-n",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		98,
+		254
+	],
+	"camera_position": [
+		-200,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
