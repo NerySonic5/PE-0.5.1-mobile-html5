@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="madnery.png">
+<SubTexture name="never mess with nerysonic idle0000" x="1099" y="373" width="268" height="372" frameX="-551" frameY="-196" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic idle0001" x="269" y="416" width="268" height="377" frameX="-551" frameY="-191" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic idle0002" x="1070" y="794" width="263" height="353" frameX="-562" frameY="-213" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic idle0003" x="537" y="794" width="265" height="362" frameX="-554" frameY="-205" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic idle0004" x="0" y="794" width="268" height="368" frameX="-552" frameY="-199" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Up0000" x="542" y="0" width="271" height="386" frameX="-523" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Up0001" x="271" y="0" width="271" height="400" frameX="-522" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Up0002" x="0" y="0" width="271" height="416" frameX="-518" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Down0000" x="802" y="794" width="268" height="358" frameX="-549" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Down0001" x="1377" y="0" width="268" height="347" frameX="-548" frameY="-221" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Down0002" x="1377" y="347" width="267" height="333" frameX="-546" frameY="-235" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Left0000" x="268" y="794" width="269" height="365" frameX="-517" frameY="-204" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Left0001" x="537" y="416" width="268" height="372" frameX="-508" frameY="-197" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Left0002" x="0" y="416" width="269" height="378" frameX="-497" frameY="-191" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Right0000" x="813" y="374" width="273" height="373" frameX="-554" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Right0001" x="1099" y="0" width="278" height="373" frameX="-556" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="never mess with nerysonic Right0002" x="813" y="0" width="286" height="374" frameX="-556" frameY="-194" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
